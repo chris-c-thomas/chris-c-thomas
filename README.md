@@ -1,16 +1,16 @@
-### i'm chris thomas
+### my name is chris thomas
+#### i am a software developer living in chicago.
 ---
 
-#### i am a software developer living in chicago.
-i work as a technical editor at [manning publications](https://www.manning.com) for an upcoming book that i think a lot of people are going to enjoy. early access should be soon.
+i am currently working as a technical editor on an upcoming book with [manning publications](https://www.manning.com) that i think a lot of people are going to enjoy. early access should be available soon.
 
-i recently stepped away as a software developer of over 5+ years at [argonne national laboratory](https://www.anl.gov). during this time we built [bv-brc](https://www.bv-brc.org), the bacterial and viral bioinformatics resource center, which is at the forefront of big data analytics, with services and tools developed for researchers in the biomedical communit. bv-brc is under the national institute of allergies and infectious diseases (niaid) as well as the national institue of health (nih). the project has been especially important project during the ongoing worldwide pandemic.
+i recently stepped away as a software developer of over 5+ years at [argonne national laboratory](https://www.anl.gov). during this time we built [bv-brc](https://www.bv-brc.org), the bacterial and viral bioinformatics resource center, which is at the forefront in it's field with regards to big data analytics, and has services and tools that were developed for researchers in the biomedical community. bv-brc is under the national institute of allergies and infectious diseases (niaid) as well as the national institue of health (nih). the project has been especially important project during the ongoing worldwide pandemic.
 
-before that i was a web developer with [brady corporation](https://www.bradyid.com), and their brand [seton](https://www.seton.com), handling very the large e-commerce platforms but also building out sister sites for various specialties and niches.
+before that i was a web developer with [brady corporation](https://www.bradyid.com), and namely, working on their brand [seton](https://www.seton.com), handling very large e-commerce platforms but also building out smaller, sister sites for various specialties and niches.
 
-i freelance full stack dev work with [ct web dev](https://ctwebdev.io).
+i freelance any type of dev work with [ct web dev](https://ctwebdev.io).
 
-my wife and i travel as much as possible. we have 4 cats and a large golden retriever. it's a mini zoo in our city condo.
+my wife and i travel as much as possible. we have 4 cats and a large golden retriever.
 
 ---
 <div align="center">
@@ -18,4 +18,4 @@ my wife and i travel as much as possible. we have 4 cats and a large golden retr
 </div>
 
 ---
-<p align="center">i am available to new opportunities</p>
+<p align="center">i am available for new opportunities! <a href="mailto:cct@chriscthomas.dev">email me.</a></p>
