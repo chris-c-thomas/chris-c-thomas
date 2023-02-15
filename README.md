@@ -14,7 +14,7 @@ my wife and i travel as much as possible. we have 4 cats and a large golden retr
 
 ---
 <div align="center">
--- <a href="https://chriscthomas.dev">website</a> -- <a href="https://www.reddit.com/user/chris-c-thomas">reddit</a> -- <a href="https://twitter.com/chris_c_thomas">twitter</a> -- <a href="https://timeline.chriscthomas.dev/">timeline</a> -- <a href="https://dev.to/chriscthomas">dev.to</a> -- <a href="https://stackoverflow.com/users/4508868/chris-thomas">stackoverflow</a> -- <a href="https://codesandbox.io/u/chris-c-thomas">codesandbox</a> -- <a href="https://codepen.io/chris-c-thomas">codepen</a> -- 
+-- <a href="https://chriscthomas.dev">website</a> -- <a href="https://www.reddit.com/user/chris-c-thomas">reddit</a> -- <a href="https://twitter.com/chris_c_thomas">twitter</a> -- <a rel="me" href="https://mastodon.online/@chriscthomas">mastodon</a> -- <a href="https://timeline.chriscthomas.dev/">timeline</a> -- <a href="https://dev.to/chriscthomas">dev.to</a> -- <a href="https://stackoverflow.com/users/4508868/chris-thomas">stackoverflow</a> -- <a href="https://codesandbox.io/u/chris-c-thomas">codesandbox</a> -- <a href="https://codepen.io/chris-c-thomas">codepen</a> -- 
 </div>
 
 ---
