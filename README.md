@@ -1,10 +1,7 @@
 ### my name is chris thomas
 #### i am a software developer living in chicago.
 ---
-
-i am currently working as a technical editor on an upcoming book with [manning publications](https://www.manning.com) that i think a lot of people are going to enjoy. early access should be available soon.
-
-i recently stepped away as a software developer of over 5+ years at [argonne national laboratory](https://www.anl.gov). during this time we built [bv-brc](https://www.bv-brc.org), the bacterial and viral bioinformatics resource center, which is at the forefront in its field with regards to big data analytics, and has services and tools that were developed for researchers in the biomedical community. bv-brc is under the national institute of allergies and infectious diseases (niaid) as well as the national institue of health (nih). the project has been especially important project during the ongoing worldwide pandemic.
+after 5+ years at [argonne national laboratory](https://www.anl.gov) i've just recently stepped away to pursue other software projects. during this time we built [bv-brc](https://www.bv-brc.org), the bacterial and viral bioinformatics resource center, which is at the forefront in its field with regards to big data analytics, and has services and tools that were developed for researchers in the biomedical community. bv-brc is under the national institute of allergies and infectious diseases (niaid) as well as the national institue of health (nih). the project has been especially important project during the ongoing worldwide pandemic.
 
 before that i was a web developer with [brady corporation](https://www.bradyid.com), and namely, working on their brand [seton](https://www.seton.com), handling very large e-commerce platforms but also building out smaller, sister sites for various specialties and niches.
 
