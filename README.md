@@ -1,2 +1,2 @@
-### my name is chris thomas
-#### i am a software engineer living in chicago.
+### my name is chris 
+#### and i'm a software engineer living in chicago.
